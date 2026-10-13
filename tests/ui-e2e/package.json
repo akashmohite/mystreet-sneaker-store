@@ -1,0 +1,7 @@
+{
+  "name": "mystreet-ui-e2e",
+  "private": true,
+  "type": "module",
+  "scripts": { "mock": "node mock-api.mjs", "e2e": "node e2e.mjs" },
+  "dependencies": { "puppeteer-core": "^23.11.1" }
+}

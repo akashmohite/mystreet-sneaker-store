@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Jordan 3 Cement">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e9ecf1"/><stop offset="1" stop-color="#cfd5de"/></linearGradient>
+<linearGradient id="gl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".28"/><stop offset=".55" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<radialGradient id="spot" cx=".5" cy=".42" r=".6"><stop offset="0" stop-color="#fff" stop-opacity=".75"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+<clipPath id="u"><path d="M46 206 L50 150 Q54 100 82 78 L104 62 Q128 66 138 84 L196 118 Q250 134 296 156 Q340 168 372 190 Q392 202 388 208 Z"/></clipPath>
+</defs>
+<rect width="400" height="300" fill="url(#bg)"/>
+<rect width="400" height="300" fill="url(#spot)"/>
+<ellipse cx="214" cy="268" rx="170" ry="11" fill="#0b1220" opacity=".16"/>
+<g transform="rotate(-2 214 160)">
+<path d="M40 212 Q38 244 72 248 L350 248 Q388 246 392 220 L392 206 L42 204 Z" fill="#e5e5e3"/>
+<path d="M40 212 Q38 244 72 248 L350 248 Q388 246 392 220" fill="none" stroke="#cdcdcd" stroke-width="5" stroke-linecap="round"/>
+<path d="M42 212 Q200 220 391 210" stroke="#000" stroke-opacity=".12" stroke-width="3" fill="none"/>
+<path d="M70 246v-6M87 246v-6M104 246v-6M121 246v-6M138 246v-6M155 246v-6M172 246v-6M189 246v-6M206 246v-6M223 246v-6M240 246v-6M257 246v-6M274 246v-6M291 246v-6M308 246v-6M325 246v-6M342 246v-6M359 246v-6" stroke="#000" stroke-opacity=".28" stroke-width="3" stroke-linecap="round"/>
+
+<path d="M46 206 L50 150 Q54 100 82 78 L104 62 Q128 66 138 84 L196 118 Q250 134 296 156 Q340 168 372 190 Q392 202 388 208 Z" fill="#f2f2f0"/>
+<g clip-path="url(#u)">
+<path d="M296 154 Q350 164 378 192 Q392 204 388 208 L290 208 Q306 182 296 154 Z" fill="#d7d9d9"/>
+<path d="M44 206 L48 140 Q50 110 74 96 L92 100 Q82 160 96 206 Z" fill="#d7d9d9"/>
+<path d="M96 204 Q150 150 226 140 Q260 138 284 150 Q250 160 210 180 Q160 204 140 206 Z" fill="#9ca1a8"/>
+<path d="M46 206 L50 150 Q54 100 82 78 L104 62 Q128 66 138 84 L196 118 Q250 134 296 156 Q340 168 372 190 Q392 202 388 208 Z" fill="url(#gl)"/>
+<path d="M296 154 Q306 182 290 208" stroke="#000" stroke-opacity=".18" stroke-width="2.5" fill="none" stroke-dasharray="3 5"/>
+</g>
+<path d="M100 64 Q112 40 146 50 L170 84 Q140 76 116 90 Z" fill="#fefefc" stroke="#000" stroke-opacity=".15" stroke-width="2"/>
+<path d="M142 92 l 20 6" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+<circle cx="144" cy="88" r="2.4" fill="#9b9d9d"/>
+<path d="M168 103 l 20 6" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+<circle cx="170" cy="99" r="2.4" fill="#9b9d9d"/>
+<path d="M194 114 l 20 6" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+<circle cx="196" cy="110" r="2.4" fill="#9b9d9d"/>
+<path d="M220 125 l 20 6" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+<circle cx="222" cy="121" r="2.4" fill="#9b9d9d"/>
+<path d="M246 136 l 20 6" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+<circle cx="248" cy="132" r="2.4" fill="#9b9d9d"/>
+<path d="M272 147 l 20 6" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+<circle cx="274" cy="143" r="2.4" fill="#9b9d9d"/>
+<path d="M82 78 Q104 58 138 76" stroke="#000" stroke-opacity=".22" stroke-width="5" fill="none" stroke-linecap="round"/>
+<path d="M46 206 L50 150 Q54 100 82 78 L104 62 Q128 66 138 84 L196 118 Q250 134 296 156 Q340 168 372 190 Q392 202 388 208 Z" fill="none" stroke="#000" stroke-opacity=".28" stroke-width="2.5" stroke-linejoin="round"/>
+</g>
+</svg>

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStreeT.Api", "mystreet-api\MyStreeT.Api.csproj", "{A92E28D1-78FE-46BF-BE5A-0F109D8B12AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{7B100761-C057-4661-8DCD-2D4C1D31FB2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStreeT.Tests", "tests\MyStreeT.Tests\MyStreeT.Tests.csproj", "{C3DAFA24-CC93-431A-BAC6-32399E003163}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A92E28D1-78FE-46BF-BE5A-0F109D8B12AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A92E28D1-78FE-46BF-BE5A-0F109D8B12AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A92E28D1-78FE-46BF-BE5A-0F109D8B12AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A92E28D1-78FE-46BF-BE5A-0F109D8B12AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3DAFA24-CC93-431A-BAC6-32399E003163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DAFA24-CC93-431A-BAC6-32399E003163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DAFA24-CC93-431A-BAC6-32399E003163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DAFA24-CC93-431A-BAC6-32399E003163}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C3DAFA24-CC93-431A-BAC6-32399E003163} = {7B100761-C057-4661-8DCD-2D4C1D31FB2E}
+	EndGlobalSection
+EndGlobal
